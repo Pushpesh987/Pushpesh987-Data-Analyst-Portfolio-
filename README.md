@@ -6,10 +6,21 @@
 
 ## 📊 Data Analytics Projects
 
-🔹 **Coca-Cola Sales Analysis**
-- Excel Dashboard
-- Insights on pricing, regions, and seasonality  
-👉 [View Project]([link](https://github.com/Pushpesh987/Pushpesh987-Data-Analyst-Portfolio-/blob/main/coke-sales-analysis/readme.md))
+### 🥤 Coca-Cola Sales Analysis
+**Excel Dashboard Project**
+
+- Analyzed sales performance across U.S. retailers
+- Explored relationships between pricing, volume, and profitability
+- Built interactive dashboards using Pivot Tables, Charts & Slicers
+- Identified regional trends and seasonal demand patterns
+
+🔍 **Key Highlights:**
+- West region is the top-performing market
+- Sodapop drives highest revenue but needs margin optimization
+- Peak sales observed during June–August
+- Optimal pricing range improves sales volume
+
+👉 🔗 [View Project](https://github.com/Pushpesh987/Pushpesh987-Data-Analyst-Portfolio-/blob/main/coke-sales-analysis/readme.md)
 
 ---
 
