@@ -1,5 +1,5 @@
 # 🥤 Coca-Cola Sales Analysis (Excel Dashboard Project)
-### Excel-Based Business Intelligence Dashboard | FY 2021 | US Retailers
+## Excel-Based Business Intelligence Dashboard | FY 2021 | US Retailers
 
 ## 📌 Project Overview
 
