@@ -22,6 +22,16 @@
 
 👉 🔗 [View Project](https://github.com/Pushpesh987/coke-sales-analysis)
 
+## 📸 Dashboard Preview
+
+![Sales Analysis](https://github.com/Pushpesh987/coke-sales-analysis/blob/main/screenshots/sales_analysis.png)
+
+![Sales Analysis 2](https://github.com/Pushpesh987/coke-sales-analysis/blob/main/screenshots/sales_analysis_2.png)
+
+![Time Analysis](https://github.com/Pushpesh987/coke-sales-analysis/blob/main/screenshots/time_analysis.png)
+
+![Heatmap](http://github.com/Pushpesh987/coke-sales-analysis/blob/main/screenshots/heatmap.png)
+
 ---
 
 ## 🛠 Skills
