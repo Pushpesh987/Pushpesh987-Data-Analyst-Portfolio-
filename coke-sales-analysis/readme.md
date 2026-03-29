@@ -35,10 +35,6 @@ The following data cleaning and transformation steps were performed:
 - ✅ Cleaned column names and removed inconsistencies
 - 🔄 Converted date and numeric formats
 - ❌ Handled missing/null values
-- 🧮 Created calculated fields:
-  - Profit Margin
-  - Price per Unit
-  - Total Revenue
 - 📊 Structured pivot tables for dashboard creation
 
 ---
@@ -66,6 +62,9 @@ The following data cleaning and transformation steps were performed:
 
 👉 **Key Insight:** Sodapop drives the highest revenue but requires margin optimization.
 
+
+![Volume Weighted](screenshots/sales_analysis_2.png)
+
 ---
 
 ### 3️⃣ Time Analysis Dashboard
@@ -76,6 +75,10 @@ The following data cleaning and transformation steps were performed:
 
 👉 **Key Insight:** Peak sales occur during mid-year (June–August), indicating strong seasonal demand.
 
+
+![Time Analysis](screenshots/time_analysis.png)
+
+
 ---
 
 ### 4️⃣ Heatmap Dashboard
@@ -85,25 +88,32 @@ The following data cleaning and transformation steps were performed:
 
 👉 **Key Insight:** The West region consistently outperforms other regions.
 
+
+![Heatmap](screenshots/pivot_heatmap.png)
+
+
 ---
 
-## 🔍 Key Insights
+## 🔍 Key Findings
 
-- 🥇 **Top Region:** West (highest revenue & profit)
-- 🥤 **Top Retailer:** Sodapop (high sales and strong profit)
-- ⚠️ **Low Performer:** DreamCo (low margins)
-- 📈 **Peak Season:** Summer months (June–August)
-- 💡 **Pricing Impact:** Moderate pricing (~$0.4–$0.6) maximizes volume
+| Area | Finding |
+|---|---|
+| **Top Retailer** | Sodapop — $1.6M profit, 9.2M units sold |
+| **Top Region** | West — $923K profit, highest volume |
+| **Weakest Retailer** | DreamCo — $147K profit, lowest across all metrics |
+| **Weakest Region** | Midwest — $437K profit, lowest margin |
+| **Peak Period** | June–July across all brands and regions |
+| **Price Sweet Spot** | $0.40–$0.60 per unit (volume drops sharply above $0.60) |
 
 ---
 
 ## 💡 Business Recommendations
 
-- 📍 Increase focus on high-performing regions (West & Southeast)
-- 💲 Optimize pricing strategy for maximum volume and margin
-- 🔧 Improve efficiency of low-margin retailers (DreamCo)
-- 📅 Run targeted campaigns during peak seasonal months
-- 🚀 Expand distribution of high-performing brands (e.g., Coca-Cola, Sprite)
+1. **Strengthen the Sodapop partnership** — expand shelf space, co-branded promotions, and preferential trade terms.
+2. **Review DreamCo urgently** — diagnose whether the issue is pricing, distribution, or the partnership itself.
+3. **Front-load Q2 investment** — capitalize on the June–July summer demand spike with increased inventory and marketing spend.
+4. **Build a Midwest turnaround strategy** — targeted pricing adjustments and local brand activation campaigns.
+5. **Protect the $0.40–$0.60 price band** — avoid price increases bove $0.60 to prevent significant volume erosion.
 
 ---
 
