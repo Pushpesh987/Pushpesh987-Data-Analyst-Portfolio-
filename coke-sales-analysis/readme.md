@@ -104,7 +104,7 @@ to protect volume.
 - Retailer and region performance comparison
 - Combo bar and line charts
 
-![Sales Analysis](screenshots/sales_analysis.png)
+![Sales Analysis](screenshots/sales_analysis_2.png)
 
 
 #### 🔍 Key Findings
