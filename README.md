@@ -20,7 +20,7 @@
 - Peak sales observed during June–August
 - Optimal pricing range improves sales volume
 
-👉 🔗 [View Project](https://github.com/Pushpesh987/Pushpesh987-Data-Analyst-Portfolio-/blob/main/coke-sales-analysis/readme.md)
+👉 🔗 [View Project](https://github.com/Pushpesh987/coke-sales-analysis)
 
 ---
 
