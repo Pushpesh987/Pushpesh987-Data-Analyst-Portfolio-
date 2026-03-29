@@ -54,6 +54,9 @@ The following data cleaning and transformation steps were performed:
 
 👉 **Key Insight:** Higher revenue does not always mean higher profit — pricing strategy plays a crucial role.
 
+
+![Sales Analysis](screenshots/sales_analysis.png)
+
 ---
 
 ### 2️⃣ Sales Analysis – Volume Focus
