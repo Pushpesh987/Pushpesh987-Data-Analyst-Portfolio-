@@ -7,23 +7,28 @@
 ## 📊 Data Analytics Projects
 
 🔹 **Coca-Cola Sales Analysis**
-- Excel Dashboard (Sales, Profit, Trends)
+- Excel Dashboard
 - Insights on pricing, regions, and seasonality  
-👉 [View Project](link)
-
-🔹 **Customer Segmentation**
-- Clustering using Python  
-👉 [View Project](link)
+👉 [View Project]([link](https://github.com/Pushpesh987/Pushpesh987-Data-Analyst-Portfolio-/blob/main/coke-sales-analysis/readme.md))
 
 ---
 
 ## 🛠 Skills
 
-**Data:**
-- Excel, Power BI, SQL, Python
+### 📊 Data Analytics
+- SQL (Advanced: Joins, Aggregations, Views, Subqueries)
+- Python (Data Analysis & Transformation)
+- Pandas (Data Cleaning & Manipulation)
+- NumPy (Numerical Computation)
 
-**Development:**
-- JavaScript, React, Flutter
+### 📈 Data Visualization
+- Matplotlib & Seaborn (Statistical Visualization)
+- Excel (Interactive Dashboards, Pivot Tables, Heatmaps)
+
+### 🧪 Tools & Environment
+- Jupyter Notebook
+- Git (Version Control)
+- Linux (Basic Command Line Operations)
 
 ---
 
