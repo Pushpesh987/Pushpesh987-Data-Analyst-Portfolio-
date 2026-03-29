@@ -30,7 +30,7 @@
 
 ![Time Analysis](https://github.com/Pushpesh987/coke-sales-analysis/blob/main/screenshots/time_analysis.png)
 
-![Heatmap](http://github.com/Pushpesh987/coke-sales-analysis/blob/main/screenshots/heatmap.png)
+![Heatmap](https://github.com/Pushpesh987/coke-sales-analysis/blob/main/screenshots/heatmap.png)
 
 ---
 
