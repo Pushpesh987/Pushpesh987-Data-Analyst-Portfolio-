@@ -32,6 +32,34 @@
 
 ![Heatmap](https://github.com/Pushpesh987/coke-sales-analysis/blob/main/screenshots/heatmap.png)
 
+##
+
+### 💰 IT Expenditure Analysis  
+**Power BI Dashboard Project**
+
+- Analyzed IT spending across business areas, regions, and cost categories  
+- Compared **Actual vs Forecast vs Plan** to track budget performance  
+- Built a **3-page interactive Power BI dashboard** using DAX & Power Query  
+- Identified overspending, underutilization, and forecasting gaps  
+
+🔍 **Key Highlights:**
+- Organization utilized **92.78% of planned budget** (overall under plan)  
+- **Labor contributes ~52%** of total spend, with heavy contractor dependency  
+- **Infrastructure overspend spike in December** indicates poor spend governance  
+- USA underspend masks **Europe overspend (Spain & Germany)**  
+- Functional & Enablement areas consistently **over-budgeted**  
+
+👉 🔗 [View Project](https://github.com/Pushpesh987/it-expenditure-analysis)
+
+## 📸 Dashboard Preview
+
+![Executive Summary](https://github.com/Pushpesh987/it-expenditure-analysis/blob/main/screenshots/s1.png)
+
+![Variance Drilldown](https://github.com/Pushpesh987/it-expenditure-analysis/blob/main/screenshots/s2.png)
+
+![Business Area Deep Dive](https://github.com/Pushpesh987/it-expenditure-analysis/blob/main/screenshots/s3.png)
+
+
 ---
 
 ## 🛠 Skills
