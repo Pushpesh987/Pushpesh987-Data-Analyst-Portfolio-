@@ -89,6 +89,61 @@ I focus on the **full analytics workflow** — from raw data ingestion and clean
 
 ---
 
+### 🤖 ChatGPT App Review Analysis
+**Tools:** Python · Pandas · TextBlob · Matplotlib · Seaborn · WordCloud · Jupyter Notebook
+ 
+> Performed end-to-end NLP and sentiment analysis on **193,148 real user reviews** from the ChatGPT mobile app — uncovering what users love, what frustrates them, and what drives star ratings.
+ 
+**Business Questions Answered:**
+- What is the overall sentiment landscape of ChatGPT's user base?
+- Which specific words and themes drive positive vs. negative feedback?
+- Does NLP-derived sentiment reliably correlate with numeric star ratings?
+- What product pain points are users signaling, and how should the team respond?
+
+**Key Findings:**
+| Metric | Value |
+|---|---|
+| 📋 Reviews Analyzed | 193,148 |
+| ⭐ 5-Star Share | 76.5% of all reviews |
+| 😊 Positive Sentiment (NLP) | 74.1% — 143,111 reviews |
+| 😐 Neutral Sentiment | 22.7% — a key conversion opportunity |
+| 😠 Negative Sentiment | 3.2% — concentrated around answer quality & access |
+| 🔗 Polarity–Rating Correlation | r = 0.33 (statistically significant) |
+| 📝 Avg Review Length | 8.7 words — short reviews dominate |
+| 🔑 Top Negative Signal | `wrong`, `bad`, `cant`, `doesnt` — usability & answer failures |
+ 
+**Analysis Pipeline:**
+1. **Data Cleaning** — Removed duplicates, null values, and non-English reviews; standardized text
+2. **Feature Engineering** — Computed `polarity`, `subjectivity`, `review_length`, and `sentiment_label` using TextBlob
+3. **EDA** — Rating distributions, review length histograms, sentiment breakdowns
+4. **Text Analysis** — Top keywords for positive vs. negative reviews; word clouds per sentiment category
+5. **Correlation Analysis** — Heatmap of ratings, polarity, subjectivity, and review length
+6. **BI Dashboard** — 4-panel executive summary synthesizing all findings
+**Key BI Insights:**
+ 
+- **Answer quality is the #1 pain point** — `wrong`, `bad`, `doesnt` cluster tightly in 1-star reviews, pointing directly at output accuracy
+- **22.7% neutral users are an untapped opportunity** — these are not dissatisfied, just unimpressed; targeted improvements could convert them to promoters
+- **Longer reviews = more critical** — negative reviews average more words, making review length a reliable triage signal for support escalation
+- **NLP sentiment tracks star ratings** (r = 0.33) — enabling automated review monitoring without relying on explicit scores
+- **Satisfied users are emotionally expressive** — high polarity + high subjectivity signals ideal candidates for testimonial and referral campaigns
+
+🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/chatgpt-analysis)
+ 
+<details>
+<summary>📸 Visualization Screenshots</summary>
+  
+![Rating Distribution](https://github.com/Pushpesh987/chatgpt-analysis/blob/main/screenshots/rating_distribution.png)
+![Sentiment Overview](https://github.com/Pushpesh987/chatgpt-analysis/blob/main/screenshots/sentiment_overview.png)
+![Sentiment vs Rating](https://github.com/Pushpesh987/chatgpt-analysis/blob/main/screenshots/sentiment_vs_rating.png)
+![Top Keywords](https://github.com/Pushpesh987/chatgpt-analysis/blob/main/screenshots/top_keywords_all.png)
+![Word Clouds](https://github.com/Pushpesh987/chatgpt-analysis/blob/main/screenshots/wordclouds.png)
+![Correlation Heatmap](https://github.com/Pushpesh987/chatgpt-analysis/blob/main/screenshots/correlation_heatmap.png)
+![Insight Dashboard](https://github.com/Pushpesh987/chatgpt-analysis/blob/main/screenshots/insight_dashboard.png)
+ 
+</details>
+
+---
+
 ## 🛠 Skills & Tools
 
 ### Analytics & Querying
