@@ -504,6 +504,49 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 ---
 
+### 🏠 13. Airbnb NYC Listing Analysis
+**Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
+
+> Performed end-to-end EDA on **48,895 Airbnb listings across 5 NYC boroughs** — analyzing customer preferences, pricing strategies, market saturation, and revenue potential to identify growth opportunities for hosts and the platform.
+
+**Business Questions Answered:**
+- Which room types and price ranges are most popular across NYC boroughs?
+- How does average pricing vary by borough and room type?
+- Where are the biggest growth opportunities and highest revenue potential?
+
+**Key Findings:**
+| Insight | Detail |
+|---|---|
+| 🏙️ Top Borough | Manhattan leads with ~21,500 listings at avg $165/night |
+| 🛏️ Room Preference | Entire home/apt dominates Manhattan; Private rooms lead Brooklyn |
+| 💰 Revenue Leaders | Vinegar Hill (~$4,600), Battery Park City (~$3,950) top revenue potential |
+| 📈 Market Saturation | Manhattan & Brooklyn highly saturated; Bronx & Staten Island underserved |
+| 🏷️ Competition | Budget segment has ~24,000 listings — fiercest competition |
+| 📊 Price Sweet Spot | $101–$200 most popular in Manhattan; $51–$100 dominates Brooklyn |
+
+**Analysis:** Customer Preferences · Pricing Strategy · Market Saturation · Growth Opportunities
+
+🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/airbnb-analysis)
+
+<details>
+<summary>📸 Analysis Screenshots</summary>
+
+![Room Types](https://raw.githubusercontent.com/Pushpesh987/airbnb-analysis/main/screenshots/room_type_by_neighbourhood.png)
+![Price Ranges](https://raw.githubusercontent.com/Pushpesh987/airbnb-analysis/main/screenshots/price_range_by_neighbourhood.png)
+![Avg Price by Borough](https://raw.githubusercontent.com/Pushpesh987/airbnb-analysis/main/screenshots/avg_price_by_neighbourhood_group.png)
+![Avg Price by Room](https://raw.githubusercontent.com/Pushpesh987/airbnb-analysis/main/screenshots/avg_price_by_room_type.png)
+![Availability vs Price](https://raw.githubusercontent.com/Pushpesh987/airbnb-analysis/main/screenshots/availability_vs_price.png)
+![Market Saturation](https://raw.githubusercontent.com/Pushpesh987/airbnb-analysis/main/screenshots/listings_per_neighbourhood.png)
+![Price Categories](https://raw.githubusercontent.com/Pushpesh987/airbnb-analysis/main/screenshots/listings_by_price_category.png)
+![Top Revenue](https://raw.githubusercontent.com/Pushpesh987/airbnb-analysis/main/screenshots/top_revenue_neighbourhoods.png)
+
+</details>
+
+
+
+
+---
+
 
 ## 📫 Let's Connect
 
