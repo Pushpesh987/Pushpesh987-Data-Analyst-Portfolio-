@@ -453,6 +453,17 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/food-delivery-analysis)
 
+<details>
+<summary>📸 Dashboard Screenshots</summary>
+
+![KPIs](https://raw.githubusercontent.com/Pushpesh987/food-delivery-analysis/main/screenshots/Screenshot%202026-05-28%20175138.png)
+![Demographics & Orders](https://raw.githubusercontent.com/Pushpesh987/food-delivery-analysis/main/screenshots/Screenshot%202026-05-28%20175149.png)
+![Delivery & Restaurant](https://raw.githubusercontent.com/Pushpesh987/food-delivery-analysis/main/screenshots/Screenshot%202026-05-28%20175158.png)
+![City Analysis](https://raw.githubusercontent.com/Pushpesh987/food-delivery-analysis/main/screenshots/Screenshot%202026-05-28%20175208.png)
+
+</details>
+
+
 
 ---
 
