@@ -51,7 +51,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 ## 📁 Projects
 
-> 8 end-to-end analytics projects spanning Excel, Power BI, and Python — covering sales, finance, NLP, HR, sports, and investment analytics.
+> 14 end-to-end analytics projects spanning Excel, Power BI, and Python — covering sales, finance, NLP, HR, sports, and investment analytics.
 
 ---
 
