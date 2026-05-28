@@ -429,6 +429,34 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 ---
 
+### 🍔 11. ZestyEats Food Delivery Analysis
+**Tools:** Power BI · DAX · Power Query · Excel
+
+> Built a 4-page interactive Power BI dashboard for ZestyEats analyzing **25K+ deliveries** worth **$22M** — covering platform KPIs, customer demographics, delivery efficiency, restaurant performance, and city-level insights to optimize operations.
+
+**Business Questions Answered:**
+- What are the platform's sales KPIs and on-time delivery performance?
+- Which food categories and order types drive the most revenue?
+- How does traffic density affect delivery ratings and efficiency?
+
+**Key Findings:**
+| Insight | Detail |
+|---|---|
+| 💰 Total Sales | $22M across 25K deliveries with AOV of $914 |
+| ⏱️ On-Time Delivery | 69.81% — nearly 1 in 3 orders face delays |
+| 📊 Order Value Split | High-value orders dominate at 62.26% of sales |
+| 🍽️ Top Order Type | Buffet leads at 34.84% ($8M); Meal follows at 27.81% |
+| 🏙️ Metro Dominance | Metropolitan cities account for 74% of total volume ($16.7M) |
+| 🚗 Traffic Impact | Delivery ratings drop significantly in high traffic density areas |
+
+**Dashboard Pages:** KPI Overview · Customer & Order Analysis · Delivery & Restaurant Performance · City Analysis
+
+🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/food-delivery-analysis)
+
+
+---
+
+
 ## 📫 Let's Connect
 
 I'm open to **Data Analyst**, **Business Analyst**, and **BI Analyst** roles. If you're working on an interesting data problem or want to collaborate, reach out:
