@@ -394,6 +394,40 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 ---
 
+### 🛒 10. E-Commerce Sales Analysis
+**Tools:** Power BI · DAX · Power Query
+
+> Built a 3-page interactive Power BI dashboard analyzing **5,005 e-commerce orders** across 793 customers, 3 product categories, and 4 regions — tracking KPIs, customer segmentation, product performance, and profitability to drive strategic sales and logistics decisions.
+
+**Business Questions Answered:**
+- What are the overall sales KPIs and how are they trending over time?
+- How do customer segments and product categories compare across regions?
+- What is the profit margin, and how do discounts impact order volume?
+
+**Key Findings:**
+| Insight | Detail |
+|---|---|
+| 💰 Total Sales | $2M across 5,005 orders with 38K units at AOV $385.88 |
+| 📈 Top Category | Technology leads at $708K; Phones top sub-category at $276K |
+| 🧑‍💼 Top Segment | Consumer dominates — 3K orders, $972K sales (50% of total) |
+| 💵 Profit Margin | $1.51M profit at 78.17% margin with 15.63% avg discount |
+| 🏷️ Discount Impact | 20% discount band covers 48% of all orders — margin risk |
+| 🚚 Delivery | Avg 9.08 days; Standard Class handles 60% of shipments |
+
+**Dashboard Pages:** Key Performance Indicators · Customer & Product Segment · Order & Profit Analysis
+
+🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/ecommerce-sales-analysis)
+
+<details>
+<summary>📸 Dashboard Screenshots</summary>
+
+![KPIs](https://raw.githubusercontent.com/Pushpesh987/ecommerce-sales-analysis/main/screenshots/Screenshot%202026-05-28%20174532.png)
+![Segments](https://raw.githubusercontent.com/Pushpesh987/ecommerce-sales-analysis/main/screenshots/Screenshot%202026-05-28%20174544.png)
+![Profit](https://raw.githubusercontent.com/Pushpesh987/ecommerce-sales-analysis/main/screenshots/Screenshot%202026-05-28%20174557.png)
+
+</details>
+
+---
 
 ## 📫 Let's Connect
 
