@@ -467,6 +467,43 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 ---
 
+### 📦 12. Amazon Product Feedback Analysis
+**Tools:** Python · Pandas · NLTK (VADER) · Matplotlib · Seaborn · WordCloud · Scikit-learn · Jupyter Notebook
+
+> Performed end-to-end NLP and sentiment analysis on **3,000+ Amazon product reviews** — classifying reviews into positive, neutral, and negative sentiments, generating word clouds, and extracting top pain points from negative feedback to recommend actionable product improvements.
+
+**Business Questions Answered:**
+- What is the overall sentiment landscape of Amazon product reviews?
+- What are the most commonly mentioned words across all reviews?
+- What specific issues and product features drive negative feedback?
+
+**Key Findings:**
+| Insight | Detail |
+|---|---|
+| 😊 Positive Sentiment | ~2,600 reviews (85%+) — overwhelmingly positive |
+| ⭐ 5-Star Dominance | 5-star ratings account for 70%+ of all reviews |
+| 💬 Top Words | "love", "great", "easy", "good", "kindle", "tablet" |
+| 🔌 Top Negative Theme | "kindle" (97×) and "charger" (44×) dominate complaints |
+| 📱 Screen Issues | Screen-related complaints appear consistently in negative feedback |
+| 😐 Neutral Opportunity | ~220 neutral reviews — potential conversion targets |
+
+**Analysis:** Sentiment Classification · Rating Distribution · Word Cloud · Negative Review Deep Dive
+
+🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/amazon-feedback-analysis)
+
+<details>
+<summary>📸 Analysis Screenshots</summary>
+
+![Sentiment Distribution](https://raw.githubusercontent.com/Pushpesh987/amazon-feedback-analysis/main/screenshots/sentiment_distribution.png)
+![Rating Distribution](https://raw.githubusercontent.com/Pushpesh987/amazon-feedback-analysis/main/screenshots/rating_distribution.png)
+![Word Cloud](https://raw.githubusercontent.com/Pushpesh987/amazon-feedback-analysis/main/screenshots/wordcloud.png)
+![Negative Reviews](https://raw.githubusercontent.com/Pushpesh987/amazon-feedback-analysis/main/screenshots/negative_reviews_top_words.png)
+
+</details>
+
+
+---
+
 
 ## 📫 Let's Connect
 
