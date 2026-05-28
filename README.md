@@ -588,6 +588,46 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 ---
 
+### 🚗 15. Uber Ride Analysis
+**Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
+
+> Performed end-to-end EDA on **Uber ride request data** — analyzing trip costs, demand patterns by day/hour, completion vs. cancellation rates, driver vs. passenger cancellations, and weather impact to optimize operations and reduce trip failures.
+
+**Business Questions Answered:**
+- What are the peak demand days/hours for ride requests?
+- What is the trip completion rate, and who cancels more — drivers or passengers?
+- Does weather affect cancellation rates?
+
+**Key Findings:**
+| Insight | Detail |
+|---|---|
+| ✅ Completion Rate | 75.5% completed; 15.2% cancelled; 9.3% no cars available |
+| ⏰ Peak Hours | Dual peaks — morning (5–9 AM) and evening rush (17–21 PM) |
+| 🚫 Driver Cancellations | Drivers responsible for 85.6% of all cancellations |
+| 🌧️ Weather Impact | Rainy weather shows highest cancellations across all reasons |
+| 📊 Incomplete Split | "No Cars Available" ~38% vs "Trip Cancelled" ~62% of failures |
+| ⏱️ Trip Duration | Majority under 30 minutes with right-skewed distribution |
+
+**Analysis:** Trip Cost · Duration · Demand Patterns · Cancellations · Weather Impact
+
+🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/uber-ride-analysis)
+
+<details>
+<summary>📸 Analysis Screenshots</summary>
+
+![Requests by Hour](https://raw.githubusercontent.com/Pushpesh987/uber-ride-analysis/main/screenshots/requests_by_hour.png)
+![Trip Status](https://raw.githubusercontent.com/Pushpesh987/uber-ride-analysis/main/screenshots/trip_status_pie.png)
+![Cancellation Trend](https://raw.githubusercontent.com/Pushpesh987/uber-ride-analysis/main/screenshots/cancellation_trend_pie.png)
+![Weather Cancellations](https://raw.githubusercontent.com/Pushpesh987/uber-ride-analysis/main/screenshots/cancellation_by_weather.png)
+![Incomplete by Hour](https://raw.githubusercontent.com/Pushpesh987/uber-ride-analysis/main/screenshots/incomplete_by_hour.png)
+![Trip Cost](https://raw.githubusercontent.com/Pushpesh987/uber-ride-analysis/main/screenshots/trip_cost_distribution.png)
+
+</details>
+
+
+
+---
+
 
 ## 📫 Let's Connect
 
