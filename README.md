@@ -359,6 +359,42 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 ---
 
+### 🏦 9. Financial Analysis — Customer, Loan & Risk Dashboard
+**Tools:** Power BI · DAX · Power Query · Excel
+
+> Built a 3-page interactive Power BI dashboard analyzing **3,134 banking customers** across demographics, loan portfolios, and financial risk — uncovering credit score patterns, loan default drivers, and high-risk customer segments to support data-driven lending decisions.
+
+**Business Questions Answered:**
+- What does the customer base look like in terms of demographics, income, and credit scores?
+- How is the loan portfolio distributed across types, and what is the overall performance?
+- Which customer segments are most likely to default, and what is the total risk exposure?
+
+**Key Findings:**
+| Insight | Detail |
+|---|---|
+| 👥 Total Customers | 3,134 with avg age 44 and avg income $99.27K |
+| 💵 Total Loan Amount | $252.63M across 5 loan types at avg 8.97% interest rate |
+| 🔴 Default Rate | ~10% consistent across all loan types — 519 loans worth $26.19M |
+| 🚨 High-Risk Exposure | 2,547 high-risk loans totaling $127.97M |
+| 💼 Employment Risk | Full-time (27.95%) & Self-employed (25.87%) dominate high-risk categories |
+| 📉 Credit Score Pattern | Poor credit score customers have the highest count across all employment types |
+
+**Dashboard Pages:** Customer Demographics · Loan Portfolio & Performance · Financial Risk Analysis
+
+🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/financial-analysis)
+
+<details>
+<summary>📸 Dashboard Screenshots</summary>
+
+![Customer Demographics](https://raw.githubusercontent.com/Pushpesh987/financial-analysis/main/screenshots/Screenshot%202026-05-28%20165731.png)
+![Loan Portfolio & Performance](https://raw.githubusercontent.com/Pushpesh987/financial-analysis/main/screenshots/Screenshot%202026-05-28%20165746.png)
+![Financial Risk Analysis](https://raw.githubusercontent.com/Pushpesh987/financial-analysis/main/screenshots/Screenshot%202026-05-28%20165800.png)
+
+</details>
+
+---
+
+
 ## 📫 Let's Connect
 
 I'm open to **Data Analyst**, **Business Analyst**, and **BI Analyst** roles. If you're working on an interesting data problem or want to collaborate, reach out:
