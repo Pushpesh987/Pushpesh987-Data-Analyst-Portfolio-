@@ -547,6 +547,47 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 ---
 
+### 🏦 14. Bank Customer Attrition Analysis
+**Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
+
+> Performed comprehensive EDA on a **bank customer dataset** across Indian states — investigating churn drivers through demographic profiling, product usage patterns, feedback analysis, and financial behavior to provide actionable retention strategies.
+
+**Business Questions Answered:**
+- What is the overall churn rate, and which segments are most at risk?
+- How do demographics, product holdings, and complaints affect churn?
+- Are high-salary, high-balance customers more likely to stay?
+
+**Key Findings:**
+| Insight | Detail |
+|---|---|
+| 📉 Churn Rate | 19.6% — roughly 1 in 5 customers leave the bank |
+| 🏙️ Top Churn State | Maharashtra leads at 34.1% of all churned customers |
+| 👥 Peak Churn Age | 45–65 age range shows highest attrition |
+| 📋 Complainers | 37.7% of complainers churned — nearly 2× the overall rate |
+| ⭐ Satisfaction | Uniformly distributed across churned/retained — weak predictor |
+| 📊 Product Risk | Customers with 3+ products paradoxically churn more |
+
+**Analysis:** Demographics · Product & Services · Feedback & Satisfaction · Financial Behavior
+
+🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/bank-attrition-analysis)
+
+<details>
+<summary>📸 Analysis Screenshots</summary>
+
+![Churn Proportion](https://raw.githubusercontent.com/Pushpesh987/bank-attrition-analysis/main/screenshots/plot_12_cell44.png)
+![Churn by State](https://raw.githubusercontent.com/Pushpesh987/bank-attrition-analysis/main/screenshots/plot_13_cell46.png)
+![Age vs Churn](https://raw.githubusercontent.com/Pushpesh987/bank-attrition-analysis/main/screenshots/plot_14_cell48.png)
+![Complainers](https://raw.githubusercontent.com/Pushpesh987/bank-attrition-analysis/main/screenshots/plot_32_cell92.png)
+![Satisfaction](https://raw.githubusercontent.com/Pushpesh987/bank-attrition-analysis/main/screenshots/plot_30_cell88.png)
+![Salary vs Balance](https://raw.githubusercontent.com/Pushpesh987/bank-attrition-analysis/main/screenshots/plot_33_cell97.png)
+
+</details>
+
+
+
+
+---
+
 
 ## 📫 Let's Connect
 
