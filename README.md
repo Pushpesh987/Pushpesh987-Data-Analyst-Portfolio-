@@ -3,10 +3,10 @@
 # Pushpesh Kumar
 ### Data Analyst · Turning Raw Data into Business Decisions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pushpesh-kumar-38a5a1155/)
-[![Email](https://img.shields.io/badge/Email-pushpeshkumar903%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:pushpeshkumar903@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github)](https://github.com/Pushpesh987/Pushpesh987-Data-Analyst-Portfolio-)
-[![Profile Views](https://komarev.com/ghpvc/?username=Pushpesh987&style=flat-square&color=blue)](https://github.com/Pushpesh987)
+<a href="https://www.linkedin.com/in/pushpesh-kumar-38a5a1155/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:pushpeshkumar903@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-pushpeshkumar903%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email"/></a>
+<a href="https://github.com/Pushpesh987/Pushpesh987-Data-Analyst-Portfolio-" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/Pushpesh987" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=Pushpesh987&style=flat-square&color=blue" alt="Profile Views"/></a>
 
 </div>
 
@@ -77,7 +77,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 **Dashboard Features:** Regional filters · Retailer drilldowns · Time-series trend charts · Price elasticity scatter · Heatmap overlays
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/coke-sales-analysis)
+🔗 <a href="https://github.com/Pushpesh987/coke-sales-analysis" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 <details>
 <summary>📸 Dashboard Screenshots</summary>
@@ -112,7 +112,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 **Dashboard Pages:** Executive Summary · Variance Drilldown · Business Area Deep Dive
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/it-expenditure-analysis)
+🔗 <a href="https://github.com/Pushpesh987/it-expenditure-analysis" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 <details>
 <summary>📸 Dashboard Screenshots</summary>
@@ -155,7 +155,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 5. **Correlation Analysis** — Heatmap of ratings, polarity, subjectivity, and review length
 6. **BI Dashboard** — 4-panel executive summary synthesizing all findings
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/chatgpt-analysis)
+🔗 <a href="https://github.com/Pushpesh987/chatgpt-analysis" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 <details>
 <summary>📸 Visualization Screenshots</summary>
@@ -198,7 +198,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 4. **Mean-Variance Optimization** — Mathematical max-Sharpe portfolio via SciPy
 5. **Sensitivity Analysis** — How shifting top-2 stock allocations affects Sharpe & volatility
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/mutual-plan-analysis)
+🔗 <a href="https://github.com/Pushpesh987/mutual-plan-analysis" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 <details>
 <summary>📸 Visualization Screenshots</summary>
@@ -233,7 +233,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 | 🌟 Australia's Winning Edge | All-rounders won 6 MoM awards; best at chasing |
 | 🇮🇳 India's Strength | Perfect 5-5 split — by runs and by wickets |
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/world_cup)
+🔗 <a href="https://github.com/Pushpesh987/world_cup" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 ---
 
@@ -271,7 +271,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 | 🏋️ Workout | > 0.6 | > 0.8 | 130–150 | > 0.5 |
 | ☕ Coffee Shop | < 0.5 | < 0.3 | 90–110 | 0.4–0.6 |
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/spotify-analysis)
+🔗 <a href="https://github.com/Pushpesh987/spotify-analysis" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 ---
 
@@ -300,7 +300,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 **Projected Impact of Recommendations:** Cutting attrition by 33% through top 3 actions → **Save ~$8M/year**
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/employee-attrition-analysis)
+🔗 <a href="https://github.com/Pushpesh987/employee-attrition-analysis" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 <details>
 <summary>📸 Dashboard Screenshots</summary>
@@ -346,7 +346,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 **Dashboard Pages:** Credit Card Transactions Report · Customer Insights Report · Credit Risk & Utilization
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/credit-card)
+🔗 <a href="https://github.com/Pushpesh987/credit-card" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 <details>
 <summary>📸 Dashboard Screenshots</summary>
@@ -381,7 +381,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 **Dashboard Pages:** Customer Demographics · Loan Portfolio & Performance · Financial Risk Analysis
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/financial-analysis)
+🔗 <a href="https://github.com/Pushpesh987/financial-analysis" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 <details>
 <summary>📸 Dashboard Screenshots</summary>
@@ -409,14 +409,14 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 |---|---|
 | 💰 Total Sales | $2M across 5,005 orders with 38K units at AOV $385.88 |
 | 📈 Top Category | Technology leads at $708K; Phones top sub-category at $276K |
-| 🧑‍💼 Top Segment | Consumer dominates — 3K orders, $972K sales (50% of total) |
+| 🧑💼 Top Segment | Consumer dominates — 3K orders, $972K sales (50% of total) |
 | 💵 Profit Margin | $1.51M profit at 78.17% margin with 15.63% avg discount |
 | 🏷️ Discount Impact | 20% discount band covers 48% of all orders — margin risk |
 | 🚚 Delivery | Avg 9.08 days; Standard Class handles 60% of shipments |
 
 **Dashboard Pages:** Key Performance Indicators · Customer & Product Segment · Order & Profit Analysis
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/ecommerce-sales-analysis)
+🔗 <a href="https://github.com/Pushpesh987/ecommerce-sales-analysis" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 <details>
 <summary>📸 Dashboard Screenshots</summary>
@@ -451,7 +451,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 **Dashboard Pages:** KPI Overview · Customer & Order Analysis · Delivery & Restaurant Performance · City Analysis
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/food-delivery-analysis)
+🔗 <a href="https://github.com/Pushpesh987/food-delivery-analysis" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 <details>
 <summary>📸 Dashboard Screenshots</summary>
@@ -462,8 +462,6 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 ![City Analysis](https://raw.githubusercontent.com/Pushpesh987/food-delivery-analysis/main/screenshots/Screenshot%202026-05-28%20175208.png)
 
 </details>
-
-
 
 ---
 
@@ -489,7 +487,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 **Analysis:** Sentiment Classification · Rating Distribution · Word Cloud · Negative Review Deep Dive
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/amazon-feedback-analysis)
+🔗 <a href="https://github.com/Pushpesh987/amazon-feedback-analysis" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 <details>
 <summary>📸 Analysis Screenshots</summary>
@@ -500,7 +498,6 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 ![Negative Reviews](https://raw.githubusercontent.com/Pushpesh987/amazon-feedback-analysis/main/screenshots/negative_reviews_top_words.png)
 
 </details>
-
 
 ---
 
@@ -526,7 +523,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 **Analysis:** Customer Preferences · Pricing Strategy · Market Saturation · Growth Opportunities
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/airbnb-analysis)
+🔗 <a href="https://github.com/Pushpesh987/airbnb-analysis" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 <details>
 <summary>📸 Analysis Screenshots</summary>
@@ -541,9 +538,6 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 ![Top Revenue](https://raw.githubusercontent.com/Pushpesh987/airbnb-analysis/main/screenshots/top_revenue_neighbourhoods.png)
 
 </details>
-
-
-
 
 ---
 
@@ -569,7 +563,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 **Analysis:** Demographics · Product & Services · Feedback & Satisfaction · Financial Behavior
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/bank-attrition-analysis)
+🔗 <a href="https://github.com/Pushpesh987/bank-attrition-analysis" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 <details>
 <summary>📸 Analysis Screenshots</summary>
@@ -582,9 +576,6 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 ![Salary vs Balance](https://raw.githubusercontent.com/Pushpesh987/bank-attrition-analysis/main/screenshots/plot_33_cell97.png)
 
 </details>
-
-
-
 
 ---
 
@@ -610,7 +601,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 **Analysis:** Trip Cost · Duration · Demand Patterns · Cancellations · Weather Impact
 
-🔗 [View Full Project on GitHub](https://github.com/Pushpesh987/uber-ride-analysis)
+🔗 <a href="https://github.com/Pushpesh987/uber-ride-analysis" target="_blank" rel="noopener noreferrer">View Full Project on GitHub</a>
 
 <details>
 <summary>📸 Analysis Screenshots</summary>
@@ -624,18 +615,15 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 
 </details>
 
-
-
 ---
-
 
 ## 📫 Let's Connect
 
 I'm open to **Data Analyst**, **Business Analyst**, and **BI Analyst** roles. If you're working on an interesting data problem or want to collaborate, reach out:
 
-- 📧 [pushpeshkumar903@gmail.com](mailto:pushpeshkumar903@gmail.com)
-- 💼 [LinkedIn — Pushpesh Kumar](https://www.linkedin.com/in/pushpesh-kumar-38a5a1155/)
-- 🐙 [GitHub — Pushpesh987](https://github.com/Pushpesh987)
+- 📧 <a href="mailto:pushpeshkumar903@gmail.com" target="_blank" rel="noopener noreferrer">pushpeshkumar903@gmail.com</a>
+- 💼 <a href="https://www.linkedin.com/in/pushpesh-kumar-38a5a1155/" target="_blank" rel="noopener noreferrer">LinkedIn — Pushpesh Kumar</a>
+- 🐙 <a href="https://github.com/Pushpesh987" target="_blank" rel="noopener noreferrer">GitHub — Pushpesh987</a>
 
 ---
 
