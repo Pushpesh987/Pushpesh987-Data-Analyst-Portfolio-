@@ -16,7 +16,6 @@
 
 Data Analytics professional with hands-on experience in **risk reporting, MIS dashboards, data analysis, and reporting automation** using SQL, Python, and Power BI. I focus on the full analytics workflow — from raw data ingestion and cleaning to exploratory analysis, visualization, and business storytelling.
 
-**Education:** B.E. — Computer Science & Engineering (Data Science), Sahyadri College of Engineering and Management, Mangaluru (2021–2025)
 
 **Goal with every project:** Answer the question — *"What should we do next?"*
 
