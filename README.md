@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Pushpesh Kumar
 ### Data Analyst · Turning Raw Data into Business Decisions
@@ -17,7 +17,84 @@
 Data Analytics professional with hands-on experience in **risk reporting, MIS dashboards, data analysis, and reporting automation** using SQL, Python, and Power BI. I focus on the full analytics workflow — from raw data ingestion and cleaning to exploratory analysis, visualization, and business storytelling.
 
 
-**Goal with every project:** Answer the question — *"What should we do next?"*
+**Goal with every project:** Answer the question — *"What should we do next?"* -->
+
+<div align="center">
+
+# Pushpesh Kumar
+### Data Scientist • AI/ML Engineer • Building End-to-End AI & Analytics Solutions
+
+<a href="https://www.linkedin.com/in/pushpesh-kumar-38a5a1155/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:pushpeshkumar903@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-pushpeshkumar903%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email"/></a>
+<a href="https://github.com/Pushpesh987/Pushpesh987-Data-Analyst-Portfolio-" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/Pushpesh987" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=Pushpesh987&style=flat-square&color=blue" alt="Profile Views"/></a>
+
+</div>
+
+---
+
+# 👋 About Me
+
+I am a **Data Scientist** passionate about building end-to-end AI, Machine Learning, and Data Analytics solutions that solve real-world business problems. I enjoy transforming raw data into meaningful insights through statistical analysis, predictive modeling, Natural Language Processing (NLP), and interactive Business Intelligence dashboards.
+
+My portfolio showcases **15+ end-to-end projects** across banking, finance, retail, e-commerce, HR, healthcare, customer analytics, sports analytics, and sentiment analysis. These projects span the complete analytics lifecycle—from data collection and preprocessing to exploratory data analysis (EDA), feature engineering, machine learning model development, visualization, and business storytelling.
+
+I also enjoy mentoring aspiring data professionals through technical workshops, project guidance, and industry-oriented learning while continuously exploring emerging technologies in AI and Data Science.
+
+> **My goal with every project:** Turn data into actionable business decisions.
+
+---
+
+## 🛠 Skills & Tools
+
+### 🤖 Data Science & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**Machine Learning:** Regression • Classification • Clustering • Feature Engineering • Model Evaluation
+
+**Data Science:** EDA • Statistical Analysis • Predictive Modeling • NLP • Data Cleaning
+
+---
+
+### 📊 Data Analytics & Business Intelligence
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**SQL:** Joins • CTEs • Window Functions • Stored Procedures • Query Optimization
+
+**Power BI:** DAX • Power Query • Data Modeling • Interactive Dashboards
+
+---
+
+### 📚 Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
+**Libraries:** Pandas • NumPy • Matplotlib • Seaborn
+
+---
+
+### ⚙️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+
+**Also:** IBM Cognos Analytics • IBM SPSS Modeler
+
+<!--
 
 ---
 
@@ -45,6 +122,7 @@ Data Analytics professional with hands-on experience in **risk reporting, MIS da
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+-->
 
 ---
 
